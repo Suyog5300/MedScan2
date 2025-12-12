@@ -1,0 +1,5 @@
+{
+  "name": "MedScan",
+  "description": "A friendly medical report analyzer that turns complex health data into simple, reassuring explanations.",
+  "requestFramePermissions": []
+}
